@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=t4e1's%20github&fontSize=90)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=t4e1&theme=dracula" />
